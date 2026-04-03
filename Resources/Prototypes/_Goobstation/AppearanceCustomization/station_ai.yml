@@ -1,3 +1,75 @@
+- type: stationAiCustomization
+  parent: StationAiIconBase
+  id: StationAiIconHypermoth
+  name: station-ai-icon-hypermoth
+  layerData:
+    Occupied:
+      sprite: _Goobstation/Mobs/Silicon/station_ai.rsi
+      state: ai_hypermoth
+    Dead:
+      sprite: Mobs/Silicon/station_ai.rsi
+      state: ai_dead
+
+- type: stationAiCustomization
+  parent: StationAiIconBase
+  id: StationAiIconScreensaver
+  name: station-ai-icon-screensaver
+  layerData:
+    Occupied:
+      sprite: _Goobstation/Mobs/Silicon/station_ai.rsi
+      state: ai_screensaver
+    Dead:
+      sprite: Mobs/Silicon/station_ai.rsi
+      state: ai_dead
+
+- type: stationAiCustomization
+  parent: StationAiIconBase
+  id: StationAiIconSeesyou
+  name: station-ai-icon-seesyou
+  layerData:
+    Occupied:
+      sprite: _Goobstation/Mobs/Silicon/station_ai.rsi
+      state: ai_seesyou
+    Dead:
+      sprite: Mobs/Silicon/station_ai.rsi
+      state: ai_dead
+
+- type: stationAiCustomization
+  parent: StationAiIconBase
+  id: StationAiIconEarnest
+  name: station-ai-icon-earnest
+  layerData:
+    Occupied:
+      sprite: _Goobstation/Mobs/Silicon/station_ai.rsi
+      state: ai_earnest
+    Dead:
+      sprite: Mobs/Silicon/station_ai.rsi
+      state: ai_dead
+
+- type: stationAiCustomization
+  parent: StationAiIconBase
+  id: StationAiIconObey
+  name: station-ai-icon-obey
+  layerData:
+    Occupied:
+      sprite: _Goobstation/Mobs/Silicon/station_ai.rsi
+      state: ai_obey
+    Dead:
+      sprite: Mobs/Silicon/station_ai.rsi
+      state: ai_dead
+
+- type: stationAiCustomization
+  parent: StationAiIconBase
+  id: StationAiIconBrain
+  name: station-ai-icon-brain
+  layerData:
+    Occupied:
+      sprite: _Goobstation/Mobs/Silicon/station_ai.rsi
+      state: ai_brain
+    Dead:
+      sprite: Mobs/Silicon/station_ai.rsi
+      state: ai_dead
+
 # Slugcat AI hologram (iterator??)
 - type: stationAiCustomization
   id: StationAiHologramScurret

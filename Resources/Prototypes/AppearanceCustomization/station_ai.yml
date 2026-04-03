@@ -11,6 +11,12 @@
   - StationAiIconDorf
   - StationAiIconHeartline
   - StationAiIconSmiley
+  - StationAiIconHypermoth # goob
+  - StationAiIconScreensaver # goob
+  - StationAiIconSeesyou # goob
+  - StationAiIconEarnest # goob
+  - StationAiIconObey # goob
+  - StationAiIconBrain # goob
 
 - type: stationAiCustomizationGroup
   id: StationAiHolograms
